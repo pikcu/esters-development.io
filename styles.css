@@ -1,0 +1,15 @@
+html, body {
+    background-color: #f0f0f0; /* Цвет фона страницы */
+    font-family: Arial, sans-serif; /* Шрифт для текста */
+    justify-content: center; /* Центрируем по горизонтали */
+    align-items: center; /* Центрируем по вертикали */
+    height: 100vh; /* Высота 100% от видимой области */
+    margin: 0; /* Убираем отступы по умолчанию */
+}
+
+header, main, footer {
+    background-color: white; /* Цвет фона для блоков контента */
+    padding: 20px; /* Отступы внутри блоков */
+    border-radius: 8px; /* Скругление углов */
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.1); /* Тень для блоков */
+}
